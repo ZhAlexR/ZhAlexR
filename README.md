@@ -10,13 +10,12 @@
 
 - 🔭 I’m currently working on [task-board-service](https://github.com/ZhAlexR/task_board/tree/develop)
 
-- 🌱 I’m currently learning **Django Rest Framework**
 
-- 👨‍💻 All of my projects are available at [task-board-service](https://task-board-service.onrender.com)
+- 👨‍💻 One of my projects is available at [task-board-service](https://task-board-service.onrender.com)
 
 - 📫 How to reach me **oleksandr.zhukov.job@gmail.com**
 
-- 📄 Know about my experiences [CV.Zhukov Oleksandr](https://www.canva.com/design/DAFfTquetHE/QGwTBH3TqGlCPpEZt3C97w/edit?utm_content=DAFfTquetHE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [CV.Zhukov Oleksandr](#)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
