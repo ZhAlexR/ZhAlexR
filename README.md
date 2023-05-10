@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **oleksandr.zhukov.job@gmail.com**
 
-- 📄 Know about my experiences [CV.Zhukov Oleksandr](#)
+- 📄 Know about my experiences [CV.Zhukov Oleksandr](https://drive.google.com/file/d/1W_tr-YRybYbqGnXuhrLjojBpHsigsLtw/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
